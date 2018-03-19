@@ -3,6 +3,6 @@
   "version": "1.0-preview",
   "publicReleaseRefSpec": [
     "^refs/heads/master$",
-    "^refs/tags/Microsoft\\.Build\\.Traversal-v\\d+\\.\\d+.\\d+"
+    "^refs/tags/Sunburst\\.NET\\.Sdk\\.WPF-v\\d+\\.\\d+.\\d+"
   ]
 }
