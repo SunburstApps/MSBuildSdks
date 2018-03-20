@@ -4,6 +4,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>Provides SDK functionality specific to Windows Forms projects</Description>
     <IncludeBuildOutput>false</IncludeBuildOutput>
-    <PackageTags>tags</PackageTags>
+    <PackageTags>MSBuild MSBuildSDK windows-forms</PackageTags>
+    <PackageProjectURL>https://github.com/SunburstApps/MSBuildSdks/tree/master/src/Sunburst.NET.Sdk.WindowsForms</PackageProjectURL>
+    <PackageLicenseURL>https://github.com/SunburstApps/MSBuildSdks/blob/master/LICENSE</PackageLicenseURL>
   </PropertyGroup>
 </Project>
