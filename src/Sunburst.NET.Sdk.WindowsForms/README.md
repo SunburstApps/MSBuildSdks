@@ -1,5 +1,5 @@
-# Microsoft.NET.Sdk.WindowsForms
-The `Microsoft.NET.Sdk.WindowsForms` MSBuild project SDK is a variant on the `Microsoft.NET.Sdk` SDK used for .NET Core and .NET Standard projecs. It contains additional logic required for a project that uses Windows Forms to build and be debuggable. To use this SDK, simply replace the value of the `<Project Sdk="..." />` attribute with `Microsoft.NET.Sdk.WindowsForms`.
+# Sunburst.NET.Sdk.WindowsForms
+The `Sunburst.NET.Sdk.WindowsForms` MSBuild project SDK is a variant on the `Microsoft.NET.Sdk` SDK used for .NET Core and .NET Standard projecs. It contains additional logic required for a project that uses Windows Forms to build and be debuggable. To use this SDK, simply replace the value of the `<Project Sdk="..." />` attribute with `Sunburst.NET.Sdk.WindowsForms`.
 
 Due to an ongoing incompatibility between the SDK-style project system and the Windows Forms designer, additional steps are required for full designer support:
 

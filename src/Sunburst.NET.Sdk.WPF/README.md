@@ -1,5 +1,5 @@
-# Microsoft.NET.Sdk.WPF
-The `Microsoft.NET.Sdk.WPF` MSBuild project SDK is a variant on the `Microsoft.NET.Sdk` SDK used for .NET Core and .NET Standard projecs. It contains additional logic required for a project that uses WPF to build and be debuggable, and enables designer support for XAML files. To use this SDK, simply replace the value of the `<Project Sdk="..." />` attribute with `Microsoft.NET.Sdk.WPF`. No additional modifications to the project are required; you don't even need to add explicit imports to the project file so the `.tmp_proj` file will compile correctly any more, as the SDK now does that for you.
+# Sunburst.NET.Sdk.WPF
+The `Sunburst.NET.Sdk.WPF` MSBuild project SDK is a variant on the `Microsoft.NET.Sdk` SDK used for .NET Core and .NET Standard projecs. It contains additional logic required for a project that uses WPF to build and be debuggable, and enables designer support for XAML files. To use this SDK, simply replace the value of the `<Project Sdk="..." />` attribute with `Sunburst.NET.Sdk.WPF`. No additional modifications to the project are required; you don't even need to add explicit imports to the project file so the `.tmp_proj` file will compile correctly any more, as the SDK now does that for you.
 
 # Acknowledgments
 
